@@ -1,7 +1,12 @@
 <div align="center">
-  <h2>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ꜰᴇʟʟᴏᴡ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ, ɪ ᴀᴍ ᴀʙʜᴀꜱʜ</h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+  <h2>ʜᴇʟʟᴏ ᴛʜᴇʀᴇ, ꜰᴇʟʟᴏᴡ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ, ɪ ᴀᴍ ᴀʙʜᴀꜱʜ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+<div align="center">
+
+CS Undergraduate|Android Developer|UI & UX Designer|Competitive Programmer
+
+</div>
 <!--
 **AbhashK1/AbhashK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
