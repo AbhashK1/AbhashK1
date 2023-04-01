@@ -15,7 +15,7 @@ Looking to collaborate on **Open Source Projects**
   
 Ask me anything **<a href="https://github.com/AbhashK1/AbhashK1/issues/new"><b>here</b></a>**
 
-Reach me at **abhash.kr99@gmail.com**
+Reach me at my **<a href="mailto:abhash.kr99@gmail.com"><b>email</b></a>**
 
 Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 </div>
