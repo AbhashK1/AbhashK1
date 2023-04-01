@@ -4,7 +4,7 @@
 
 <div align="center">
 
-CS Undergraduate | Android Developer | UI & UX Designer | Competitive Programmer
+CS Undergraduate | Android Developer | UI & UX Designer | Competitive Programmer | Machine Learning Dev
 
 </div>
 <div align="center">
