@@ -25,3 +25,4 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
   
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhashK1" alt="abhashk1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhashK1" alt="abhashk1" /></p>
